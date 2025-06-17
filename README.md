@@ -1,4 +1,4 @@
-# Adaptive-pairs-trading-with-kalman-filter
+# Adaptive pairs trading with regime switching volatility detection
 
 This notebook implements a dynamic pairs trading strategy using cointegration, volatility regime detection, and LSTM-based forecasting.
 
